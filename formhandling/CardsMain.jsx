@@ -14,7 +14,7 @@ function CardsMain({ users, handleRemove }) {
         />
       ))}
     </div>sdf
-  );x
+  );xsd
 }sd
 
 export default CardsMain;
