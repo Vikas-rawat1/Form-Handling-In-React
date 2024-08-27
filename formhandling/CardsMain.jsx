@@ -12,8 +12,8 @@ function CardsMain({ users, handleRemove }) {
           handleRemove={handleRemove}
           // key={index}
         />
-      ))}dadssdf
-    </div>sdf
+      ))}dadssdfsdf
+    </div>sdfsdf
   );
 }
 sd
